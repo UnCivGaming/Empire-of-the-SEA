@@ -1,0 +1,27 @@
+	[
+	{
+		"name": "ASEAN",
+		"leaderName": "The 10 Leaders",
+		"adjective": ["ASEAN"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+		"declaringWar": "Im sorry, Its our decision to say farewell to you...",
+		"attacked": "We knew you couldn't be trusted, power to the wrong person will never be a good outcome.",
+		"defeated": "You have defeated us... but our spirits will never be vanquished! We shall return!",
+		"introduction": "Greetings friend! The Empire of the SEA greets you!",
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Does this trade work for you, my friend?",
+		"outerColor": [34,85,158],
+		"innerColor": [248,244,0],
+		"uniqueName": "The Power Of Unification",
+		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","+[1] Movement for all [Melee] units"],
+		"cities": ["Jakarta","Manila","Bangkok","Kuala Lumpur","Hanoi","Ho Chi Mihn City",
+		"Phnom Phen","Yangon","Surabaya","Chiang Mai","Bandung","Vietntaine","Malacca",
+		"Johor Bahru","Quezon City","Malabon City","Krong Siem Reap","Luang Prabang",
+		"Davao City","George Town","Makassar","Hoi an","Cebu City","Old Bagan","Mandalay"]
+	}
+	]

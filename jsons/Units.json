@@ -1,0 +1,16 @@
+	[
+	{
+		"name": "Guerilla Soldier",
+		"unitType": "Melee",
+		"replaces": "Infantry",
+		"uniqueTo": "ASEAN",
+		"movement": 2,
+		"strength": 68,
+		"cost": 365,
+		"requiredTech": "Plastics",
+		"promotions": ["Drill I","Drill II"],
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+	]
